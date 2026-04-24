@@ -1,4 +1,4 @@
-a,b,c =60,53,45
+a,b,c =60,53,67
 
 if a>b and a>c:
     print(a)
