@@ -1,4 +1,4 @@
-#Without using len()
+
 S= "Pranay"
 count = 0
 
